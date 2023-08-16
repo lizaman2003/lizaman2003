@@ -30,7 +30,7 @@
   <img style="margin: 10px" title="Illustrator"  src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="40" /> &nbsp;
   <img style="margin: 10px" title="Bootstrap" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="40" /> &nbsp;
 <img style="margin: 10px" title="jQuery"   src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="40" /> &nbsp;
-  <img style="margin: 10px" title="laravel"   src="icons/laravel/laravel-plain.svg" height="40" /> &nbsp;
+  <img style="margin: 10px" title="laravel"   src="//github.com/devicons/devicon/blob/master/icons/laravel" " height="40" /> &nbsp;
 </div>
 
 ### ⚙️ GitHub статистика:
