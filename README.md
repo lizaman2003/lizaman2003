@@ -31,6 +31,7 @@
   <img style="margin: 10px" title="Bootstrap" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="40" /> &nbsp;
 <img style="margin: 10px" title="jQuery"   src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="40" /> &nbsp;
   <img style="margin: 10px" title="laravel"   src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" " height="40" /> &nbsp;
+  <img style="margin: 10px" title="Vue"   src="icons/vuejs/vuejs-original-wordmark.svg" " height="40" /> &nbsp;
 </div>
 
 ### ⚙️ GitHub статистика:
